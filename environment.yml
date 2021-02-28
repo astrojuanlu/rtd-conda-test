@@ -4,4 +4,4 @@ channels:
   - defaults
 dependencies:
   - python=3.8
-  - sphinx=3.5
+  - sphinx=3.4  # Can't be pinned by default, see https://github.com/readthedocs/readthedocs.org/issues/3829
