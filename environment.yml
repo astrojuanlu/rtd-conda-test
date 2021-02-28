@@ -5,3 +5,4 @@ channels:
 dependencies:
   - python=3.8
   - sphinx=3.4  # Can't be pinned by default, see https://github.com/readthedocs/readthedocs.org/issues/3829
+prefix: /home/juanlu/.mambaforge/envs/rtd_conda_test38  # This gets added by `conda env export --from-history`
