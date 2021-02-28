@@ -4,4 +4,4 @@ sphinx:
   configuration: source/conf.py
 
 conda:
-  environment: environment.yml
+  environment: environment-bare.yml

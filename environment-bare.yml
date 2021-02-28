@@ -1,0 +1,7 @@
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - rasterio==1.2
+  - python=3.8
+  - pytorch-cpu=1.7
